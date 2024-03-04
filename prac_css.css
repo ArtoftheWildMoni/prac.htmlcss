@@ -1,15 +1,9 @@
-.translucent {
+.transparent, .translucent{
   margin: 10px 0;
   padding-left: 10px;
   background: #01558d;
   color: white;
   }
-  .translucent{
-  margin: 10px 0;
-  padding-left: 10px;
-  background: #01558d;
-  color: white;
-  } 
   .transparent {
   opacity: 0;
   }
