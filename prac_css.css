@@ -1,10 +1,6 @@
-.corner{
-  border: solid 1px black;
-  border-radius:10px;
-}
-.circle{
-  width:100px;
-  height:100px;
+.box{
+  border:solid 2px red;
   background:#01558d;
-  border-radius:50%;
+  color:white;
+  padding:20px;
 }
