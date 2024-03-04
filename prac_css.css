@@ -1,6 +1,18 @@
-.box{
-  border:solid 4px red;
-  background:#026996;
-  color:white;
-  margin:20px;
-}
+.translucent {
+  margin: 10px 0;
+  padding-left: 10px;
+  background: #01558d;
+  color: white;
+  }
+  .translucent{
+  margin: 10px 0;
+  padding-left: 10px;
+  background: #01558d;
+  color: white;
+  } 
+  .transparent {
+  opacity: 0;
+  }
+  .translucent {
+  opacity: .5;
+  }
