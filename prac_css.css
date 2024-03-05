@@ -1,9 +1,7 @@
 .text {
-color: transparent;
-}
-.back {
-background: rgb(170, 130, 130);
-}
-.border {
-border: solid 1px #d64343;
+padding: 10px 1;
+color: #01558d;
+border-top: solid 2px;
+border-bottom: solid 2px;
+text-align:center;
 }
